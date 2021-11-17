@@ -20,7 +20,13 @@ $pip2 install request
 
 pip2 install futures
 
+
+$pkg install git
+
+
 # git clone https://github.com/ABIDsindi786/RANDOM.git
+
+
 
 $cd ABIDsindi786
 
