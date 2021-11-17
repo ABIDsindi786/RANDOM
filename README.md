@@ -23,7 +23,7 @@ pip2 install mechanize
 
 pkg install git 
 
-# git clone 
+# git clone https://github.com/ABIDsindi786/RANDOM.git
 
 cd ABIDsindhi786
 
