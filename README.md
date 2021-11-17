@@ -27,3 +27,7 @@ $cd ABIDsindhi786
 $git pull
 
 $python2 ABID.pyc
+
+# CONTACT 
+
+https://www.facebook.com/ABIDSINDHI786110
