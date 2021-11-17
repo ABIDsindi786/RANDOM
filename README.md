@@ -22,7 +22,7 @@ pip2 install futures
 
 # git clone https://github.com/ABIDsindi786/RANDOM.git
 
-$cd ABIDsindhi786
+$cd ABIDsindi786
 
 $git pull
 
