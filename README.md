@@ -28,7 +28,7 @@ $pkg install git
 
 
 
-$cd ABIDsindi786
+$cd RANDOM
 
 $git pull
 
